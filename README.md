@@ -149,6 +149,6 @@ Este proyecto ha sido desarrollado por estudiantes del **1º DAW - IES Font de S
 🔗 [Volver al índice](#📑-índice)
 
 
-[Enlace a Aules](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores "Repositorio del proyecyo principal")
+[Repositorio del proyecto principal](https://github.com/RubenSanchezAng/Reparacion-de-ordenadores "Repositorio del proyecyo principal")
 
 
