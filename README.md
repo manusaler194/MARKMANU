@@ -7,7 +7,7 @@
 
 ## 📑 Índice
 
-- [🔧 Introducción](#-introducción)
+- [🔧 :game_die: Introducción](#-introducción)
 - [📦 Funcionalidades del Subsistema](#-funcionalidades-del-subsistema)
   - [🗂️ Registro de materiales y repuestos](#️-registro-de-materiales-y-repuestos)
   - [📥 Gestión de stock](#-gestión-de-stock)
