@@ -131,13 +131,11 @@ public class Material {
 
 Este proyecto ha sido desarrollado por estudiantes del **1º DAW - IES Font de Sant Lluís**:
 
-- 👤 Carlos García
-- 👤 Lucía Martínez
-- 👤 Andrés Pérez
-- 👤 Sofía Torres
+- 👤 Manuel Rubio
+- 👤 Irma
+- 👤 Ruben
+- 👤 Alejandro
 
-> 💡 _Lucía se encargó de la lógica de notificaciones y validación de stock._
 
----
 
 🔗 [Volver al índice](#📑-índice)
