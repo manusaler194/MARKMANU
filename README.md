@@ -138,9 +138,9 @@ Este proyecto ha sido desarrollado por estudiantes del **1º DAW - IES Font de S
 | Nombre     | Rol   | Subsistema             |
 |------------|-------|------------------------|
 | Manu       | Scrum | Gestión de materiales  |
-| Ruben      | 31    | Gestión de reparaciones|
-| Alejandro  | 29    | Gestión de clientes    |
-| Irma       | 39    | Gestión de informes    |
+| Ruben      | Secretario    | Gestión de reparaciones|
+| Alejandro  | Portavoz    | Gestión de clientes    |
+| Irma       | Facilitador    | Gestión de informes    |
 
 ---
 
