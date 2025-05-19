@@ -1,4 +1,4 @@
-# :desktop_computer: ReparaTech - Subsistema de Gestión de Materiales
+# :desktop_computer: Reparacion de Equipos - Subsistema de Gestión de Materiales
 
 > _Sistema de gestión de materiales para el servicio técnico de reparaciones informáticas._
 
